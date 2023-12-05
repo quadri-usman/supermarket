@@ -1,12 +1,12 @@
 # supermarket
 # Supermarket Sales Data: Store’s Performance
-Introduction:
-The growth of supermarkets in most populated cities are increasing and market competitions are
+## Introduction:
+### The growth of supermarkets in most populated cities are increasing and market competitions are
 also high. The dataset is one of the historical sales of a supermarket company which has been
 recorded in 3 different branches for 3 months.
 The objective is to gain a comprehensive understanding of the store's performance, identify
 areas for improvement, and make informed decisions to drive growth and profitability
-Attribute Information
+## Attribute Information
 Invoice id: Computer generated sales slip invoice identification number
 Branch: Branch of supercenter (3 branches are available identified by A, B and C).
 City: Location of supercenters
@@ -27,7 +27,7 @@ COGS: Cost of goods sold
 Gross margin percentage: Gross margin percentage
 Gross income: Gross income (Total - COGS)
 Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
-Analysis Questions:
+## Analysis Questions:
 1. How does the revenue vary across different branches? 
 2. Can you identify the top-selling product lines and the least popular ones?
 3. What is the distribution of customer types (Members vs. Normal)?
@@ -37,12 +37,12 @@ Analysis Questions:
 7. Which of the branches has more of the highest customer rating?
 8. Which Gender purchases the most?
 Project Tool Used: SQL
-SQL Queries and Results
+## SQL Queries and Results
 ![Screenshot (190)](https://github.com/quadri-usman/supermarket/assets/105228467/fd397b8f-a0f2-462b-8184-a843bbd480fb)
 ![Screenshot (191)](https://github.com/quadri-usman/supermarket/assets/105228467/96a8412e-a93f-490a-8480-e26a3ab6fa09)
 
 
-Conclusion
+##Conclusion
 From the analysis, the store is encouraged to always make available and focus more on “Electronic accessories” while improving their advertisement “Health and Beauty”. 
 The Overall SQL Queries
 select *
